@@ -7,3 +7,5 @@ c = a+b
 print(c)
 
 print("call second py")
+
+print("Hi")
